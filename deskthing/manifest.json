@@ -14,5 +14,5 @@
   "homepage": "https://github.com/McCoffeeee/thingagotchi.git",
   "updateUrl": "https://github.com/McCoffeeee/thingagotchi.git",
   "id": "thingagotchi",
-  "template": "full"
+  "template": "base"
 }

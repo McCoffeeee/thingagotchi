@@ -4,12 +4,10 @@ button {
 
   border: none;
 }
-
 button:focus {
   outline: none;
   border: none;
 }
-
 button:active {
   outline: none;
   border: none;
