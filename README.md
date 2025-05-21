@@ -1,5 +1,7 @@
-# Deskthing App Template
 
-Welcome to the DeskThing Template!
+# ThingaGotchi
+Tamagotchi-style app for DeskThing
 
-For a full wiki on how to make an app, go to https://github.com/itsriprod/deskthing-apps/wiki
+Building on the fantastic work of https://github.com/ItsRiprod 
+
+Template available here: **https://github.com/itsriprod/deskthing-template**
