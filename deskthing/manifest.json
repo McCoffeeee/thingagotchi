@@ -1,0 +1,18 @@
+{
+  "label": "thingagotchi",
+  "tags": [],
+  "requires": [],
+  "version": "0.10.12",
+  "requiredVersions": {
+    "server": ">=0.0.0",
+    "client": ">=0.11.0"
+  },
+  "description": "Tamagotchi-style app for DeskThing",
+  "author": "McCoffeeee",
+  "platforms": [],
+  "repository": "https://github.com/McCoffeeee/thingagotchi.git",
+  "homepage": "https://github.com/McCoffeeee/thingagotchi.git",
+  "updateUrl": "https://github.com/McCoffeeee/thingagotchi.git",
+  "id": "thingagotchi",
+  "template": "full"
+}
